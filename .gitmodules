@@ -1,0 +1,3 @@
+[submodule "sri"]
+	path = sri
+	url = git@github.com:caldefenwycke/poold.git
